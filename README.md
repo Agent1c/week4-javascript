@@ -1,4 +1,4 @@
-# JavaScript for Beginners - FNB App Academy Help - Simphiwe Radebe
+# JavaScript for Beginners - FNB App Academy - Simon Ndlovu
 
 A collection of 15 interactive JavaScript lessons designed for absolute beginners. Each lesson builds upon the previous one, taking you from basic concepts to creating a functional login system.
 
